@@ -1,1 +1,1 @@
-# 100-progect
+# JavaScript base code
